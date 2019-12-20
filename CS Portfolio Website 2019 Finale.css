@@ -1,0 +1,92 @@
+#topBar {
+
+background-color: lightgreen;
+padding-left : 50px ;
+padding-top: 20px ;
+padding-bottom: 20px;
+margin: 0px;
+
+}
+
+#Header {
+
+background-color: lightblue;
+padding : 100px;
+text-align: center;
+margin: 0px;
+}
+
+#MiniBio {
+
+    background-color: lightcoral;
+    padding : 15px;
+    text-align: center;
+    margin: 0px;
+
+
+}
+
+
+
+#CompEnthTitle {
+
+background-color: lightgreen;
+text-align: center;
+padding: 20px;
+
+
+
+}
+
+
+#CompEnthDesc {
+
+
+    background-color: lightgreen;
+    text-align: left;
+    padding-top : 75px;
+    padding-bottom: 102px;
+    float: left;
+}
+
+#comppic {
+
+background-color: lightgreen;
+float: right;
+padding-left: 82.3px;
+padding-right: 83px;
+
+}
+
+#Dthsstitle {
+
+    background-color: lightblue;
+    float: center;
+    padding-left: 500px;
+    padding-top:100px;
+    padding-bottom: 20px;
+    
+}
+
+#dtechdesc {
+
+background-color: lightblue;
+float : center;
+margin : 0px;
+padding-top: 20px;
+padding-bottom:20px;
+
+
+
+}
+
+#schoolpic {
+
+
+background-color: lightblue;
+padding-left: 250px;
+margin: 0px;
+
+
+}
+
